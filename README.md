@@ -3,3 +3,5 @@ This repository includes basic python scripts to do different operations in anal
 You should find here the scipts to:
 - Charts - basic charts for data
 - GIS - using maps in GIS order
+- DB - connection python with databases
+
